@@ -1,0 +1,7 @@
+name = "Worker project bame"
+type = "javscript"
+# account_id = "<ACCOUNT ID>"
+workers_dev = true
+
+[vars]
+key = "value"
